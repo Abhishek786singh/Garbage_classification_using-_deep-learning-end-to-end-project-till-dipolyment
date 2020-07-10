@@ -123,8 +123,8 @@ gunicorn
 
 * On Render.com find the repository and create new web service and it's done!
 
-![Render](images/RenderDemo.png)
-* view full code [here](https://github.com/Abhishek786singh/Garbage_classification_using-_deep-learning-end-to-end-project-till-dipolyment/edit/).
+![Render](Images/RenderDemo.png)
+* view full code [here](https://github.com/Abhishek786singh/Garbage_classification_using-_deep-learning-end-to-end-project-till-dipolyment).
 ----
 
 ## b. Heroku
