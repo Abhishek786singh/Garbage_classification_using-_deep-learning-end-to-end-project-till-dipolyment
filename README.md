@@ -2,7 +2,7 @@
 
 * Link to application: https://garbage-classification.herokuapp.com
 * web application demo:
-![demo2](images/demo3.png)
+![demo2](Images/demo3.png)
 
 # 1. Machine-Learning
 
@@ -55,10 +55,10 @@ A few different methods were attempted.
 
 First, Keras was used to create a model with conv1 layer to conv4 layers. However, the model was not complex enough and it was underfitting. 
 
-![conv4](images/conv4.png)
+![conv4](Images/conv4.png)
 * conv4 layer model
 
-![conv4acc](images/conv4acc.png)
+![conv4acc](Images/conv4acc.png)
 * Low validation accuracy compared to training accuracy
 
 So pre-trained model ResNet34 was used with Fastai library.
@@ -78,19 +78,19 @@ learn.fit_one_cycle(15, max_lr=1e-03)
 ```
 * Train the model 
 
-![fataitrain](images/fastaitrain.png)
+![fataitrain](Images/fastaitrain.png)
 * High training accuracy 
 
 The model got test accuracy of about 91%.
 
-![testacc](images/testacc.png)
+![testacc](Images/testacc.png)
 
 ### Confusion Matrix
 
-![confmat](images/confmat.png)
+![confmat](Images/confmat.png)
 
 ### Precision Recall Curve
-![precrecall](images/precrecall.png)
+![precrecall](Images/precrecall.png)
 
 
 # 2. Deploying image classification model
@@ -124,7 +124,7 @@ gunicorn
 * On Render.com find the repository and create new web service and it's done!
 
 ![Render](images/RenderDemo.png)
-* view full code [here](https://github.com/hoon0624/Garbage-Classification-Render).
+* view full code [here](https://github.com/Abhishek786singh/Garbage_classification_using-_deep-learning-end-to-end-project-till-dipolyment/edit/).
 ----
 
 ## b. Heroku
@@ -137,8 +137,8 @@ gunicorn
 
 Successfully deployed.
 
-![demo1](images/demo.png)
-![demo2](images/demo2.png)
+![demo1](Images/demo.png)
+![demo2](Images/demo2.png)
 
 
 # Next Step
@@ -157,3 +157,5 @@ This was my first experience with machine learning/ image classification. Throug
 * Anaconda virtual environment : https://anaconda.org/fastai/fastai
 * Render template : https://github.com/hoon0624/Garbage-Classification-Render
 * Flask template(Heroku) : https://github.com/shankarj67/Water-classifier-fastai
+## Abhishek Singh
+* Link-https://www.linkedin.com/in/abhishek-singh-771291170
