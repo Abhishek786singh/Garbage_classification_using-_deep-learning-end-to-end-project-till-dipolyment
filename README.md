@@ -4,7 +4,7 @@
 * web application demo:
 ![demo2](Images/demo3.png)
 
-# 1. Machine-Learning .....
+# 1. Machine-Learning 
 
 Training the model was done with google colab.
 
