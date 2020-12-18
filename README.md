@@ -24,7 +24,7 @@ Training the model was done with google colab.
             - glass
             - metal
             - paper
-            - plastic 
+            - plastic .....
             - trash 
 
 * Organized image data from Kaggle (https://www.kaggle.com/asdasdasasdas/garbage-classification) in a file structure like above with 50/25/25 split. 
