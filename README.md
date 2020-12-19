@@ -6,7 +6,7 @@
 
 # 1. Machine-Learning 
 
-Training the model was done with google colab  ......
+Training the model was done with google colab  
 
 ## Organizing data & Pre-processing
 
