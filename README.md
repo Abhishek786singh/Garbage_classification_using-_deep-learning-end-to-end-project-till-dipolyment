@@ -150,7 +150,7 @@ This was my first experience with machine learning/ image classification. Throug
 * Add CI/CD integration.
 * Add other features to web-app such as informational messages about each recycling category, and etc. 
 
-# Helpful resources .....
+# Helpful resources 
 * How to organize and train your model : https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sorting-6d11d3c9c478
 * Precision recall curve on multiclass : https://stackoverflow.com/questions/56090541/how-to-plot-precision-and-recall-of-multiclass-classifier
 * Anaconda virtual environment : https://anaconda.org/fastai/fastai
