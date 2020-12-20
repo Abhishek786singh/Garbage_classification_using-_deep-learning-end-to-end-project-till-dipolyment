@@ -35,7 +35,7 @@ Then the data was pre-processed using Fastai library .
 ```python
 from fastai.vision import transform
 
-tfms = get_transforms()
+tfms = get_transforms()....
 ```
 * Fastai supports image augmentation on brightness, contrast, crop, crop_pad, dihedral, dihedral_affine, flip_lr, flip_affine, jitter, pad, perspective_warp, resize, rotate, rgb_randomize, skew, squish, symmetric_warp, tilt, zoom, cutout.
 * Learn more about it in [this article](https://towardsdatascience.com/introduction-to-image-augmentations-using-the-fastai-library-692dfaa2da42) by Sanyam Bhutani.
