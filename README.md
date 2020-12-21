@@ -137,7 +137,7 @@ gunicorn
 
 Successfully deployed.
 
-![demo1](Images/demo.png)
+![demo1](Images/demo.png) .....
 ![demo2](Images/demo2.png) 
 
 
