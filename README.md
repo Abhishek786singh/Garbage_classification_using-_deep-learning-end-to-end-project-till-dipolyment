@@ -92,7 +92,7 @@ The model got test accuracy of about 91%.
 ### Precision Recall Curve
 ![precrecall](Images/precrecall.png)
 
-
+.....
 # 2. Deploying image classification model
 
 ## Setting up Dependency & Virtual environment
