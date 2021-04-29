@@ -27,7 +27,7 @@ Training the model was done with google colab
             - plastic 
             - trash 
 
-..
+......
 * Organized image data from Kaggle (https://www.kaggle.com/asdasdasasdas/garbage-classification) in a file structure like above with 50/25/25 split. 
 * View specific code in Garbage-Classification.ipynb [here](https://colab.research.google.com/drive/1lZe5P8orSYYx4OXCNozWqJ1NO9IOF-pF).
 
