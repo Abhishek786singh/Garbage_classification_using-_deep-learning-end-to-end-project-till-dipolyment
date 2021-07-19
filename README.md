@@ -1,5 +1,5 @@
 # Garbage Classification 
-
+.......
 * Link to application: https://garbage-classification.herokuapp.com
 * web application demo:
 ![demo2](Images/demo3.png)
